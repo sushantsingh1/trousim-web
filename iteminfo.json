@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Agra",
+        "State":"Uttar Pradesh",
+        "Area":"87 Sq.Km",
+        "Population": "15.9 lakhs",
+        "Nearest Airport":"Pandit Deen Dayal Upadhyay Airport",
+        "Nearest Railway Stations":"Agra Cantt, Agra Fort",
+        "Ranking in Clean Cities List":"16"
+    },
+    {
+        "name":"Delhi",
+        "State":"New Delhi",
+        "Area":"1484 Sq.Km",
+        "Population": "1.9 Crores",
+        "Nearest Airport":"",
+        "Nearest Railway Stations":"Delhi, New Delhi, Nizamuddin",
+        "Ranking in Clean Cities List":"8"
+    }
+]
